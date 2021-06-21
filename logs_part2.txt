@@ -1,0 +1,13 @@
+0188df0 (HEAD -> main, origin/main, origin/feature5, origin/develop, feature5, develop) HEAD@{0}: merge develop: Fast-forward
+e6b0107 HEAD@{1}: checkout: moving from develop to main
+0188df0 (HEAD -> main, origin/main, origin/feature5, origin/develop, feature5, develop) HEAD@{2}: merge feature5: Fast-forward
+d80a95c (origin/feature4, origin/feature3, feature4, feature3) HEAD@{3}: checkout: moving from feature5 to develop
+0188df0 (HEAD -> main, origin/main, origin/feature5, origin/develop, feature5, develop) HEAD@{4}: rebase (finish): returning to refs/heads/feature5
+0188df0 (HEAD -> main, origin/main, origin/feature5, origin/develop, feature5, develop) HEAD@{5}: rebase (squash): add some text
+c58f9ac HEAD@{6}: rebase (pick): add some text
+e6b0107 HEAD@{7}: rebase (start): checkout e6b01076
+de97f0e HEAD@{8}: rebase (abort): updating HEAD
+06776dd HEAD@{9}: rebase (start): checkout 06776ddd
+de97f0e HEAD@{10}: commit: add new text
+06776dd HEAD@{11}: commit: add some text
+d80a95c (origin/feature4, origin/feature3, feature4, feature3) HEAD@{12}: checkout: moving from develop to feature5
