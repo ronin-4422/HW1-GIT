@@ -1,0 +1,27 @@
+98d8a05 (HEAD -> main, origin/main) HEAD@{0}: commit: fix folders
+d80a95c (origin/feature4, origin/feature3, origin/develop, feature4, feature3, develop) HEAD@{1}: merge develop: Fast-forward
+52c3cec (origin/feature2, feature2) HEAD@{2}: checkout: moving from develop to main
+d80a95c (origin/feature4, origin/feature3, origin/develop, feature4, feature3, develop) HEAD@{3}: checkout: moving from main to develop
+52c3cec (origin/feature2, feature2) HEAD@{4}: checkout: moving from feature4 to main
+d80a95c (origin/feature4, origin/feature3, origin/develop, feature4, feature3, develop) HEAD@{5}: checkout: moving from develop to feature4
+d80a95c (origin/feature4, origin/feature3, origin/develop, feature4, feature3, develop) HEAD@{6}: checkout: moving from feature3 to develop
+d80a95c (origin/feature4, origin/feature3, origin/develop, feature4, feature3, develop) HEAD@{7}: merge develop: Fast-forward
+fae9932 HEAD@{8}: checkout: moving from develop to feature3
+d80a95c (origin/feature4, origin/feature3, origin/develop, feature4, feature3, develop) HEAD@{9}: checkout: moving from feature3 to develop
+fae9932 HEAD@{10}: checkout: moving from develop to feature3
+d80a95c (origin/feature4, origin/feature3, origin/develop, feature4, feature3, develop) HEAD@{11}: merge feature4: Fast-forward
+fae9932 HEAD@{12}: checkout: moving from feature4 to develop
+d80a95c (origin/feature4, origin/feature3, origin/develop, feature4, feature3, develop) HEAD@{13}: rebase (finish): returning to refs/heads/feature4
+d80a95c (origin/feature4, origin/feature3, origin/develop, feature4, feature3, develop) HEAD@{14}: rebase (pick): add styles for pictures
+fae9932 HEAD@{15}: rebase (start): checkout develop
+83945af HEAD@{16}: checkout: moving from develop to feature4
+fae9932 HEAD@{17}: merge feature3: Fast-forward
+52c3cec (origin/feature2, feature2) HEAD@{18}: checkout: moving from feature3 to develop
+fae9932 HEAD@{19}: checkout: moving from feature1 to feature3
+0de26e1 (origin/feature1, feature1) HEAD@{20}: checkout: moving from develop to feature1
+52c3cec (origin/feature2, feature2) HEAD@{21}: checkout: moving from feature4 to develop
+83945af HEAD@{22}: commit: add styles for pictures
+c4797e6 HEAD@{23}: checkout: moving from feature3 to feature4
+fae9932 HEAD@{24}: commit: add class img for pictures
+c4797e6 HEAD@{25}: checkout: moving from feature4 to feature3
+c4797e6 HEAD@{26}: checkout: moving from feature3 to feature4
